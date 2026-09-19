@@ -14,9 +14,7 @@
 - **Navigation  - 2**
 
 
-![Books](C:\Users\Botel\AndroidStudioProjects\BibleKMP\shared\src\commonMain\composeResources\assets\Books.png)
-![Chapter](C:\Users\Botel\AndroidStudioProjects\BibleKMP\shared\src\commonMain\composeResources\assets\Chapters.png)
-![Verses](C:\Users\Botel\AndroidStudioProjects\BibleKMP\shared\src\commonMain\composeResources\assets\Verses.png)
+
 
 
 
