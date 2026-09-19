@@ -68,7 +68,6 @@ fun BookList(onClickBook:(Bible) -> Unit={}) {
                 }
             }
         }
-
     }
 
 
