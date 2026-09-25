@@ -69,7 +69,7 @@ private fun buildClient(): HttpClient {
         }
 
         defaultRequest {
-            header("api-key", "fNrA7PAFdU-JvpekfF-oL")
+            header("api-key", "")
             //header("ContentType", "text/plain")
             //header("Accept" ,"text/plain")
 
