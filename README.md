@@ -3,7 +3,7 @@
 **Salmos 139:6**:
 ## Tal conhecimento é maravilhoso demais para mim; é sobremodo elevado, não o posso atingir. ##
 
-## BibleKMP
+## Images
 
 ![Image1]("assets/Books.png")
 
