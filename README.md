@@ -5,11 +5,11 @@
 
 ## Images
 
-![Image1]("assets/books.png")
+![books]("assets/books.png")
 
-![Image2]("assets/chapters.png")
+![chapers]("assets/chapters.png")
 
-![Image3]("assets/verses.png")
+![verses]("assets/verses.png")
 
 ## Structures
 - **MVVM**
